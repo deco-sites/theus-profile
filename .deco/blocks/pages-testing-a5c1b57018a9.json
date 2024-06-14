@@ -14,6 +14,16 @@
       "placement": "left"
     },
     {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx"
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "placement": "right"
+    },
+    {
+      "__resolveType": "site/sections/BlogPosts.tsx"
+    },
+    {
       "__resolveType": "site/sections/Logos.tsx",
       "title": "Parceiros",
       "logos": [
@@ -27,16 +37,6 @@
         },
         {}
       ]
-    },
-    {
-      "__resolveType": "site/sections/ImageWithParagraph.tsx"
-    },
-    {
-      "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "placement": "right"
-    },
-    {
-      "__resolveType": "site/sections/BlogPosts.tsx"
     },
     {
       "__resolveType": "site/sections/Testimonials.tsx"
