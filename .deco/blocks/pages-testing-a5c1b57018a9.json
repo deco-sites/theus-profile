@@ -14,11 +14,11 @@
       "placement": "left"
     },
     {
-      "__resolveType": "site/sections/ImageWithParagraph.tsx"
-    },
-    {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
       "placement": "right"
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx"
     },
     {
       "__resolveType": "site/sections/BlogPosts.tsx"
